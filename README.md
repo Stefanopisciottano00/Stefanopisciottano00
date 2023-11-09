@@ -1,22 +1,34 @@
-# Ciao, sono Stefano Pisciottano! 👋
+# Hi, I'm Stefano Pisciottano! 👋
 
-Benvenuto nel mio spazio digitale! Mi chiamo Stefano, ho 23 anni e risiedo a Celle di Bulgheria, una pittoresca località in provincia di Salerno. Attualmente, sono immerso nel mondo della sicurezza informatica, studiando presso l'Università degli Studi di Salerno.
+Welcome to my Github profile! I'm Stefano, a 23 years old guy residing in Celle di Bulgheria, a small town in the province of Salerno. Currently, I'm immersed in the world of Cybersecurity, pursuing my studies at the University of Salerno. 
 
-## 🎓 Studio
-Attualmente sono uno studente appassionato di sicurezza informatica, e sto cercando di approfondire le mie conoscenze in questo entusiasmante campo.
+## 🎓 Education
+After graduating with a bachelor's degree in Computer Science from the University of Salerno, 
+i decided to continue my path by enrolling in the master's degree in Cybersecurity.
 
-## ⚙️ Competenze
-- Sicurezza informatica
-- [Inserisci altre competenze qui]
+I am a passionate student of all the computer science world, constantly seeking to deepen my knowledge in this exciting field.
 
-## 🌐 Contatti
-- [Inserisci il tuo indirizzo email o altri contatti]
+## ⚙️ Skills
+- Team work
+- Communication
+- Problem solving
+- Adaptability
+- Critical Thinking
 
-## 🔐 Progetti
-Alcuni dei miei progetti potrebbero riguardare la sicurezza informatica, quindi tieniti aggiornato per scoprire le ultime novità!
+## 🌐 Contact
+- Email (pisciottano.work@gmail.com)
+- My website (coming soon...)
+- Linkedin (https://www.linkedin.com/in/stefano-pisciottano)
+- Facebook (https://www.facebook.com/stefano19pisciottano)
+- Twitter (https://twitter.com/Onafets1912)
+- Instagram (https://www.instagram.com/__fefi.__)
 
-![Sicurezza Informatica](link_all_immagine)
 
-Non esitare a dare un'occhiata ai miei repository e lasciare un feedback o contribuire!
+## 🔐 Projects
+Some of my projects may revolve around cybersecurity, so stay tuned for the latest updates!
 
-Grazie per visitare il mio profilo GitHub. 🚀
+![Cybersecurity](image_link_here)
+
+Feel free to explore my repositories and provide feedback or contribute!
+
+Thanks for visiting my GitHub profile. 🚀

@@ -25,9 +25,9 @@ I am a passionate student of all the computer science world, constantly seeking 
 
 
 ## 🔐 Projects
-Some of my projects may revolve around cybersecurity, so stay tuned for the latest updates!
+The projects in this repository were mostly created for exams taken during my course of study. For new updates, stay tuned! 🔌
 
-![Cybersecurity](image_link_here)
+![Cybersecurity](https://www.dgroove.it/wp-content/uploads/2020/09/cybersecurity.jpg)
 
 Feel free to explore my repositories and provide feedback or contribute!
 

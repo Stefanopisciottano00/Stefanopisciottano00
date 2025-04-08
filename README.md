@@ -1,6 +1,6 @@
 # Hi, I'm Stefano Pisciottano! 👋
 
-Welcome to my Github profile! I'm Stefano, a 23 years old guy residing in Celle di Bulgheria, a small town in the province of Salerno. Currently, I'm immersed in the world of Cybersecurity, pursuing my studies at the University of Salerno. 
+Welcome to my Github profile! I'm Stefano, a 24 years old guy residing in Celle di Bulgheria, a small town in the province of Salerno. Currently, I'm immersed in the world of Cybersecurity, pursuing my studies at the University of Salerno. 
 
 ## 🎓 Education
 After graduating with a bachelor's degree in Computer Science from the University of Salerno, 

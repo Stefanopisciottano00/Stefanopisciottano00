@@ -27,7 +27,7 @@ My interests lie in understanding how systems are protected, governed, and asses
 - LinkedIn: https://www.linkedin.com/in/stefano-pisciottano  
 - Website: https://stefanopisciottano00.github.io/PersonalWebsite/index.html 
 - Twitter: https://twitter.com/Onafets1912  
-- Instagram: https://www.instagram.com/stefano.pisciottano/  
+- Instagram: https://www.instagram.com/stefano.pisciottano/
 - Facebook: https://www.facebook.com/stefano19pisciottano  
 
 ## 📌 Note

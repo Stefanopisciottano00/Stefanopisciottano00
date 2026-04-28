@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm Stefano, based in Italy, currently focused on Cybersecurity through my academic path at the University of Salerno.
 
 ## 🎓 Background
-I hold a Bachelor's degree in Computer Science from the University of Salerno, and I am currently pursuing a Master's degree in Cybersecurity.
+I hold a Bachelor's degree in Computer Science from the University of Salerno, and a Master's degree in Cybersecurity.
+Actually I'm working for Accenture S.p.A in Governance, Risk & Compliance
 
 My interests lie in understanding how systems are protected, governed, and assessed from a security perspective, with a focus on risk, resilience, and security management.
 
